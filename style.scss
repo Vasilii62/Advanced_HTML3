@@ -572,7 +572,6 @@ label {
     }
 
     &__bottom__items {
-        // padding: 128px 0;
         display: flex;
         justify-content: center;
         flex-wrap: wrap;
@@ -743,7 +742,6 @@ label {
 
     &__card {
         width: 652px;
-        // max-height: 306px;
         box-sizing: border-box;
         display: flex;
         flex-direction: column;
@@ -1042,7 +1040,7 @@ label {
     min-height: 448px;
     background-size: cover;
     background-position: center;
-    background-image: url(../images/fon.svg);
+    background-image: url(images/fon.svg);
 
     display: flex;
     flex-direction: row;
@@ -1279,7 +1277,7 @@ label {
         height: 111px;
         background-size: cover;
         background-position: center;
-        background-image: url(../images/advertisement004.jpg);
+        background-image: url(images/advertisement004.jpg);
     }
 
     .img__big {
